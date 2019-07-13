@@ -21,3 +21,4 @@ berikut cara menjalankan :
   -buka Chrome (pastikan extensions JSONView terinstal dan enabled)
   -ketik di url "http://localhost/nomor1.json"
   
+.
